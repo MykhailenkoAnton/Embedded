@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/Users/amykhailenko/Documents/TestLviv/build",
+  "command": "/usr/bin/clang++ -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.0.sdk -std=gnu++11 -o CMakeFiles/TestLviv.dir/test2.cpp.o -c /Users/amykhailenko/Documents/TestLviv/test2.cpp",
+  "file": "/Users/amykhailenko/Documents/TestLviv/test2.cpp"
+}
+]

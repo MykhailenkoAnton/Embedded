@@ -1,0 +1,3 @@
+/Users/amykhailenko/Documents/TestLviv/build/CMakeFiles/TestLviv.dir
+/Users/amykhailenko/Documents/TestLviv/build/CMakeFiles/edit_cache.dir
+/Users/amykhailenko/Documents/TestLviv/build/CMakeFiles/rebuild_cache.dir
